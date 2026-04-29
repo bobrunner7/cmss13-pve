@@ -220,9 +220,11 @@
 	name = SQUAD_MARINE_3
 	equipment_color = "#c864c8"
 	chat_color = "#ff96ff"
-	access = list(ACCESS_MARINE_CHARLIE)
+	access = list(ACCESS_MARINE_ALPHA)
+	use_stripe_overlay = FALSE
 	radio_freq = CHARLIE_FREQ
 	minimap_color = MINIMAP_SQUAD_CHARLIE
+	usable = TRUE
 
 /datum/squad/marine/delta
 	name = SQUAD_MARINE_4
