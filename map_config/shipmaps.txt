@@ -41,6 +41,3 @@ endmap
 
 map hms_brynhild
 endmap
-
-map dark_descent_rover
-endmap
